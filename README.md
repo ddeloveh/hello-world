@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-A sample from the walk through.
+An edited version of the readme.
